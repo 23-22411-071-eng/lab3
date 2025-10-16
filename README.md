@@ -5,3 +5,4 @@ this line was added remotely from github
 this line was added remotely for rebase demo
 
 this line was added locally for rebase demo
+this line was updated locally at the same time
