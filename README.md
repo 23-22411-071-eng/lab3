@@ -5,3 +5,4 @@ this line was added locally for rebase demo
 
 test line 1 - first commit
  this is a test line for amed demo.
+this is test line for amed demo.
