@@ -4,3 +4,4 @@ this line was added remotely for rebase demo.
 this line was added locally for rebase demo
 
 test line 1 - first commit
+ this is a test line for amed demo.
